@@ -1,0 +1,13 @@
+Sai Kumar Reddy Peddholla
+USC ID - 5978435849
+Mail: peddholl@usc.edu
+Per USC ID, I am assigned Yahoo search engine.
+
+Average Percent Overlap - 7.9
+Average Spearman Coefficient - 4.18
+
+Comparing Yahoo results to Google, we can say that yahoo results have a minimal overlap with google results. 
+Maximum overlaps is only 4 for Query 58 and Query 100.
+Spearman Coefficient is negative most of the cases suggesting very less overlap between the results.
+This indicates that google and yahoo use different search algorithms to get matching result for a query.
+Also, they use different ranking algorithm to rank the fetched results.

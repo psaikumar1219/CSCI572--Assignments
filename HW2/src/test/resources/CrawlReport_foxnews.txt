@@ -1,0 +1,37 @@
+Name: Sai Kumar Reddy Peddholla
+USC ID: 5978435849
+News site crawled: foxnews.com
+Number of threads: 7
+
+Fetch Statistics:
+=================
+# fetches attempted: 19999
+# fetches succeeded: 19816
+# fetches failed or aborted: 183
+
+Outgoing URLs:
+==============
+Total URLs extracted: 3059670
+# unique URLs extracted: 171338
+# unique URLs within News Site: 77889
+# unique URLs outside News Site: 93449
+
+Status Codes:
+=============
+200 OK: 19816
+301 Moved Permanently: 139
+404 Not Found: 35
+500 Internal Server Error: 8
+503 Service Unavailable: 1
+
+File Sizes:
+===========
+< 1KB: 0
+1KB ~ <10KB: 0
+10KB ~ <100KB: 5261
+100KB ~ <1MB: 14509
+>= 1MB: 46
+
+Content Types:
+==============
+text/html: 19816
